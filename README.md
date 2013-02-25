@@ -1,4 +1,3 @@
-onesport-public
-===============
+# Onesport Public
 
-public sport stuff
+Public-facing BBC Sport content.
